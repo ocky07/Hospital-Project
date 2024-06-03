@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;hospital_Servlett/src/main/webapp/adnim&apos; to &apos;admin&apos;" description="Rename resource &apos;adnim&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/adnim" name="admin" stamp="1695881252371" updateReferences="true"/>
+</session>
